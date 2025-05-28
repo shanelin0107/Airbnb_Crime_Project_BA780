@@ -43,8 +43,9 @@ Since Location is just a combination of Longitude and Latitude, and X and Y Coor
 
 For the Airbnb data, we initially focused on missing rating values. We filled these missing ratings by calculating the mean rating for each neighborhood. Several columns, such as the first review date, last review date, and property descriptions, were also blank, likely because no reviews were available or the information wasn't provided. Columns like host response rate or the number of bathrooms and bedrooms were similarly incomplete, so we filled these missing values with "Unknown" or "Not Provided." One special imputation we performed was predicting the missing property prices using simple linear regression, based on features such as bedrooms, bathrooms, beds, room_type, and neighbourhood_cleansed.
 
-## Conclusion
-9. Conclusion
+## Conclusion  
+
+Conclusion
 Conclusion for Airbnb Stakeholders, New Hosts, and Customers
 Our analysis explores the impact of crime rates and neighborhood dynamics on Chicago's Airbnb market. By examining key factors such as property prices, occupancy rates, and crime levels, we offer targeted recommendations to help Airbnb stakeholders, new hosts, and customers make informed, data-driven decisions.
 
