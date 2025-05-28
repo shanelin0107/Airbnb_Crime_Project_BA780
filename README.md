@@ -1,6 +1,6 @@
 # Airbnb_Crime_Project_BA780
-## Objective
-Problem Statement
+## Problem Statement
+
 1.Aim to investigate the correlation between Airbnb listings and crime rates in Chicago by analyzing crime trends across neighborhoods, mapping Airbnb distribution, and assessing the relationship between listing density and specific crime types.
 
 2.The study will evaluate how the increase in Airbnb listings affects local crime rates, taking into neighborhood safety, house price and police presence to provide a comprehensive understanding of the dynamics involved.
